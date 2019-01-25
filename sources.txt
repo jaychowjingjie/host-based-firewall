@@ -1,0 +1,8 @@
+# Illumio Coding Assignment 2018 - Host-based Firewall.
+# Jay Chow, 24th January 2019 
+
+https://docs.python.org/2/library/collections.html
+EN.601.643.01.FA18, Security & Privacy in Computing, Lecture Slides on Firewalls, Fall 2018, Prof Avi Rubin
+https://realpython.com/python-csv/
+https://docs.python.org/3/library/unittest.html
+https://stackoverflow.com/questions/176011/python-list-vs-array-when-to-use
