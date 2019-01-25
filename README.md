@@ -1,7 +1,6 @@
 # illumio-host-based-firewall
-Illumio Coding Assignment 2018, PCE teams
-# Illumio Coding Assignment 2018 - Host-based Firewall.
-# Jay Chow, 24th January 2019 
+Illumio Coding Assignment 2018, Host-based firewall, PCE teams
+Jay Chow, 24th January 2019 
 
 ### Running the Python3 firewall program:
 python3 firewall.py 
