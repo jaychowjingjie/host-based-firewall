@@ -1,8 +1,3 @@
-"""
-# Illumio Coding Assignment 2018 - Host-based Firewall.
-# Jay Chow, 24th January 2019 
-"""
-
 import csv
 import ipaddress
 import unittest
