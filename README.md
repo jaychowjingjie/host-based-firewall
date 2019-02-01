@@ -1,5 +1,3 @@
-# illumio-host-based-firewall
-Illumio Coding Assignment 2018, Host-based firewall, PCE teams
 # Jay Chow, 24th January 2019 
 
 ### Running the Python3 firewall program:
@@ -8,8 +6,7 @@ python3 firewall.py
 Note: please edit the file path in line 158 of firewall.py to where the csv file is.
 
 ### Background:
-A core component of Illumio’s product is a host‐based firewall. As a
-simplified model, consider a firewall to be a system which is programmed with
+As a simplified model, consider a firewall to be a system which is programmed with
 a set of predetermined security rules. As network traffic enters and leaves
 the machine, the firewall rules determine whether the traffic should be
 allowed or blocked.Real‐world firewalls support both “allow” and “block”
@@ -141,15 +138,6 @@ will allow easier management of a firewall for an administrator since many rules
 is still a regular dictionary under the hood, the look up complexity is still O(1). As such, speed is not really sacrificed 
 for added functionality that could be useful if we decide to make our host-based firewall more intelligent for future 
 improvement in this host-based firewall.
-
-
- ### Team Choices
-
-I have the preferences in the following ranking as I want to deal more with security engineering:
-
-1. Policy
-2. Platform
-3. Data
 
 ### Miscellaneous
 During my graduate coursework at Johns Hopkins University Information Security Institute, I built a Firewall using Netfilter,
